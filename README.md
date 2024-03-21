@@ -4,4 +4,4 @@ Welcome to the HTML CSS JavaScript Projects repository! Here, you'll find a dive
 
 ## Projects
 
-- **Project 1: [Responsive Navigation Bar](project1/)** - Brief description of project 1.
+- **1: [Responsive Navigation Bar](project1/)** - Brief description of project 1.
